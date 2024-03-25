@@ -68,7 +68,7 @@ proceed to envanmiller.org for statistical significance test.
 visualizing using power bi both  the prediction and significant data.
 
 #### limitation.
-could not use iteration for my transfer of data to mysql because of data size.
+iteration takes time.
 
 ##### visualization link
 <iframe title="absenteeism" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTAzZWY3ZjQtNDllZi00YjE0LTk5NjMtZmQwNzQ3MTdiMmZmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
