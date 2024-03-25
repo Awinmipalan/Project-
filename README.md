@@ -28,7 +28,7 @@ visualizing using power bi both  the prediction and significant data.
 could not use iteration for my transfer of data to mysql because of data size.
 
 ###### visualization link
-[click here ]{}
+[click here ]{<iframe title="inter galatic travel" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGVlNzMyMGItYmM1OC00ODQ5LTk1ZDMtYWIwNGY5ODczMTQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>}
 ### project2
 ### absenteeism
 
@@ -56,4 +56,4 @@ visualizing using power bi both  the prediction and significant data.
 could not use iteration for my transfer of data to mysql because of data size.
 
 ##### visualization link
-[click here ]{}
+[click here ]{<iframe title="absenteeism" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTAzZWY3ZjQtNDllZi00YjE0LTk5NjMtZmQwNzQ3MTdiMmZmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>}
