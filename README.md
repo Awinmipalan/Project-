@@ -13,9 +13,10 @@ To analyze This data and create a model that predict the loyalty of the individu
 mine data, extract the data, load the data, transform the data, save the data, create model on regression a statistical model,significance test and visualization.
 
 ##### file
-notebook(repo2)
-py file(repo2)
-could not upload raw data file cause file is above 25mb
+notebook(repo2),
+py file(repo2).
+
+could not upload raw data file cause file is above 25mb.
 
 #### Tool
 tableau public, python, Mysql, gretl, Evan Miller.org and power bi
@@ -34,6 +35,8 @@ could not use iteration for my transfer of data to mysql because of data size.
 
 ###### visualization link
 <iframe title="inter galatic travel" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGVlNzMyMGItYmM1OC00ODQ5LTk1ZDMtYWIwNGY5ODczMTQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 ### project2
 ### absenteeism
 
