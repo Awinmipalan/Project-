@@ -66,6 +66,8 @@ The save file can be exported using Csv format.
 proceed to gretl for modelling.
 proceed to envanmiller.org for statistical significance test.
 visualizing using power bi both  the prediction and significant data.
+##### image
+![Uploading 3df61729-64bf-4635-92b2-acd17cde0db4.jpg…]()
 
 #### limitation.
 iteration takes time.
