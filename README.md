@@ -4,7 +4,7 @@
 #### Inter galactic travel
 
 ##### data source
-keggle
+kaggle
 
 #### Aim
 To analyze This data and create a model that predict the loyalty of the individual involve in this space travel.
